@@ -2,9 +2,9 @@
 
 ## 🧠 Custom Agent Scenario (Enhanced Usage)
 
-To improve performance, I created a **focused agent behavior** by guiding Rovo with structured prompts and specific context.
+-To improve performance, I created a **focused agent behavior** by guiding Rovo with structured prompts and specific context.
 
-Instead of asking generic questions, the agent is used with:
+-Instead of asking generic questions, the agent is used with:
 
 - Defined role (QA Assistant / Sprint Analyst)
 - Clear instructions
